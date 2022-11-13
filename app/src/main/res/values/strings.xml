@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Rowdy Music</string>
+    <string name="website_link">https://crisisstudio.com/</string>
+
+    <string name="txt2">Something Went Wrong!</string>
+    <string name="txt1">It seems that there is no active internet connection...</string>
+    <string name="nointernettxt">Try Again</string>
+</resources>

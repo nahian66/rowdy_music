@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "60965972854",
+    "project_id": "crisis-music",
+    "storage_bucket": "crisis-music.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60965972854:android:6eb24fc06268111c3c2857",
+        "android_client_info": {
+          "package_name": "com.crisisstudio.crisismusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60965972854-7pmd30vj8pfs4aema7h2f1rrn32o2grq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo26AhvcxyNeWgPSKAGNpNFVn_PsIt7Ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60965972854-7pmd30vj8pfs4aema7h2f1rrn32o2grq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
