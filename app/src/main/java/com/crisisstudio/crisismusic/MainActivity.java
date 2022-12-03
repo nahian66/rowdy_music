@@ -192,7 +192,7 @@ public class MainActivity extends AppCompatActivity {
 
                         if ( response.contains("adrun") ){
 
-                            //adView.setVisibility(View.VISIBLE);
+                            adView.setVisibility(View.VISIBLE);
                             adView.loadAd(adRequest);
 
                         }
