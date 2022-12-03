@@ -15,10 +15,10 @@ android {
 
     defaultConfig {
         applicationId "com.crisisstudio.crisismusic"
-        minSdkVersion 21
+        minSdkVersion 19
         targetSdkVersion 33
-        versionCode 18
-        versionName "1.4.7"
+        versionCode 19
+        versionName "1.4.7.1"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
